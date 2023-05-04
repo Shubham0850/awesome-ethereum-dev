@@ -5,43 +5,43 @@ A curated list of resources for learning Ethereum development.
 ## Set up local environment 👷‍♂️
 If you're all set to begin constructing your Ethereum application, it's time to select your stack. You can make use of the following tools and frameworks to facilitate the development process.
 
-- [Truffle](https://trufflesuite.com/): A development framework for Ethereum that makes it easy to create and manage smart contracts, test them, and deploy them to the blockchain.
+- ✨ [Truffle](https://trufflesuite.com/): A development framework for Ethereum that makes it easy to create and manage smart contracts, test them, and deploy them to the blockchain.
 
 
-- [Foundry](https://getfoundry.sh/): Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- ✨ [Foundry](https://getfoundry.sh/): Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
 
-- [Create Eth App](https://github.com/PaulRBerg/create-eth-app): A command-line tool for creating Ethereum-based projects with a pre-configured development environment, including React and Web3.js.
+- ✨ [Create Eth App](https://github.com/PaulRBerg/create-eth-app): A command-line tool for creating Ethereum-based projects with a pre-configured development environment, including React and Web3.js.
 
 
-- [Scaffold-eth](https://github.com/scaffold-eth/scaffold-eth): A framework for quickly building Ethereum dApps using React, Solidity, and Web3.js.
+- ✨ [Scaffold-eth](https://github.com/scaffold-eth/scaffold-eth): A framework for quickly building Ethereum dApps using React, Solidity, and Web3.js.
 
 
-- [Solidity template](https://github.com/PaulRBerg/hardhat-template): Hardhat-based template for developing Solidity smart contracts
+- ✨ [Solidity template](https://github.com/PaulRBerg/hardhat-template): Hardhat-based template for developing Solidity smart contracts
 
 
-- [Hardhat](https://hardhat.org/): Flexible. Extensible. Fast. Ethereum development environment for professionals
+- ✨ [Hardhat](https://hardhat.org/): Flexible. Extensible. Fast. Ethereum development environment for professionals
 
 
-- [Brownie](https://github.com/eth-brownie/brownie): A Python-based development framework for building and testing smart contracts on Ethereum.
+- ✨ [Brownie](https://github.com/eth-brownie/brownie): A Python-based development framework for building and testing smart contracts on Ethereum.
 
 
-- [Waffle](https://getwaffle.io/): A library for testing Ethereum smart contracts that provides a simple and intuitive API for writing tests.
+- ✨ [Waffle](https://getwaffle.io/): A library for testing Ethereum smart contracts that provides a simple and intuitive API for writing tests.
 
 
-- [Ganache](https://trufflesuite.com/ganache/): Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
+- ✨ [Ganache](https://trufflesuite.com/ganache/): Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 
 
-- [Embark](https://framework.embarklabs.io/): The all-in-one developer platform for building and deploying decentralized applications.
+- ✨ [Embark](https://framework.embarklabs.io/): The all-in-one developer platform for building and deploying decentralized applications.
 
 
-- [Metamask](https://metamask.io/): A browser extension that allows users to interact with Ethereum DApps and manage their digital assets securely.
+- ✨ [Metamask](https://metamask.io/): A browser extension that allows users to interact with Ethereum DApps and manage their digital assets securely.
 
 
-- [Geth](https://geth.ethereum.org/): Another full-node Ethereum client that provides a way to interact with the Ethereum network and deploy smart contracts.
+- ✨ [Geth](https://geth.ethereum.org/): Another full-node Ethereum client that provides a way to interact with the Ethereum network and deploy smart contracts.
 
 
-- [Remix](https://remix.ethereum.org/): A web-based IDE that allows you to write, test and deploy Solidity smart contracts.
+- ✨ [Remix](https://remix.ethereum.org/): A web-based IDE that allows you to write, test and deploy Solidity smart contracts.
 
 
 ## Smart Contract Development
